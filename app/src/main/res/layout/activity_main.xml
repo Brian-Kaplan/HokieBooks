@@ -40,7 +40,7 @@
         android:layout_width="match_parent"
         android:layout_height="90dip"
         android:layout_marginTop="5dip"
-        android:src="@drawable/baner1" />
+        android:src="@drawable/college_text_books" />
 
     <LinearLayout android:layout_width="fill_parent"
         android:layout_height="80dip"
@@ -51,28 +51,28 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@drawable/bag01" />
+        android:src="@drawable/textbook" />
 
     <ImageView
         android:id="@+id/imageView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@drawable/bag02" />
+        android:src="@drawable/textbook1" />
 
     <ImageView
         android:id="@+id/imageView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@drawable/bag03" />
+        android:src="@drawable/treasures_textbooks" />
 
     <ImageView
         android:id="@+id/imageView6"
 		android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@drawable/bag04" />
+        android:src="@drawable/tumblr_nsj6t3pzbs1ucj0a9o1_500" />
 
  </LinearLayout>
 
@@ -86,28 +86,28 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@drawable/bag05" />
+        android:src="@drawable/treasures_textbooks" />
 
     <ImageView
         android:id="@+id/imageView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@drawable/laptop1" />
+        android:src="@drawable/textbook" />
 
     <ImageView
         android:id="@+id/imageView10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@drawable/bag07" />
+        android:src="@drawable/college_text_books" />
 
     <ImageView
         android:id="@+id/imageView9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@drawable/bag06" />
+        android:src="@drawable/tumblr_nsj6t3pzbs1ucj0a9o1_500" />
     
     </LinearLayout>
     
@@ -121,14 +121,14 @@
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
            android:layout_weight="2"
-           android:src="@drawable/tablet1" />
+           android:src="@drawable/textbooks" />
 
        <ImageView
            android:id="@+id/imageView12"
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
            android:layout_weight="2"
-           android:src="@drawable/tablet2" />
+           android:src="@drawable/textbook" />
     
     </LinearLayout>
     
